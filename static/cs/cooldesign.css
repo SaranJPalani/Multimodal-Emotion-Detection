@@ -1,0 +1,20 @@
+body {
+    background-image: url('soulmates.png');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+video {
+    border: 2px solid black;
+    margin: 20px auto;
+}
+#emotion {
+    font-size: 24px;
+    margin-top: 20px;
+}
+*{
+    background-image: url('soulmates.png');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
